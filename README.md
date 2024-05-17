@@ -6,6 +6,7 @@
 本插件是配合离线asr使用，相关教程可以参考这里 [全网首发离线语音识别CPU版 本地化部署最佳实践](https://mp.weixin.qq.com/s/f6pseefbr6jVIUkV0T4Jwg)
 
 
+不得用于商业用途
 
 ## 公众号
 可以关注我的公众号，一起交流 HomeAssistant 相关技术。
