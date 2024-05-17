@@ -93,7 +93,7 @@ class FasterASRSTT(stt.SpeechToTextEntity):
                 filename= f'{time.time()}.wav',
                 content_type='audio/wav')
                 data.add_field('language', 'zh')
-                data.add_field('model', 'base')
+                data.add_field('model', self.model)
                 data.add_field('response_format', 'json')
 
                 async with session.post(self.address, data=data) as response:
