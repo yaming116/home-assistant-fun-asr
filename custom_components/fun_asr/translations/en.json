@@ -1,0 +1,16 @@
+{
+  "title":"local asr service, support stt and fun asr",
+  "config": {
+    "error": {
+    },
+    "step": {
+      "user": {
+        "data": {
+          "server": "input local server address (http://ip:port)",
+          "model": "just stt need this , fun asr dot need"
+        },
+        "description": "local stt server ip or fun asr ip"
+      }
+    }
+  }
+}

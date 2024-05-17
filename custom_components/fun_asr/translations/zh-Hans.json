@@ -1,0 +1,16 @@
+{
+    "title":"本地的asr 服务，支持 stt 和 fun asr",
+    "config": {
+      "error": {
+      },
+      "step": {
+        "user": {
+          "data": {
+            "server": "请输入asr 本地服务地址 (http://ip:port)",
+            "model": "stt 需要选择这个参数，fun asr 默认就好了"
+          },
+          "description": "一个本地asr 服务"
+        }
+      }
+    }
+  }
