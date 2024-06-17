@@ -1,7 +1,12 @@
 # home-assistant-fun-asr
 
-
+### 下载安装
 下载插件到 `/config/custom_components` 目录下， 重启 HomeAssistant。在集成里面搜索 Fun Asr.
+
+### hacs 安装
+
+`https://github.com/yaming116/home-assistant-fun-asr` 把当前仓库添加到 hacs 自定义集成，然后安装即可。
+
 
 本插件是配合离线asr使用，相关教程可以参考这里 [全网首发离线语音识别CPU版 本地化部署最佳实践](https://mp.weixin.qq.com/s/f6pseefbr6jVIUkV0T4Jwg)
 
